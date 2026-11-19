@@ -22,7 +22,7 @@ They use the public [FACTANKER](https://factanker.com) MCP server at `https://fa
 
 **Claude.ai / Claude desktop:** add `https://factanker.com/mcp` under Settings → Connectors, then upload a skill folder (zipped) under Settings → Capabilities → Skills. Ready-made ZIPs are attached to each release.
 
-**Other agents** (Agent Skills standard, agentskills.io): copy a folder from `plugins/factanker/skills/` into your agent's skills directory and register the MCP server `https://factanker.com/mcp` (streamable HTTP, no auth).
+**Other agents** (Agent Skills standard, agentskills.io): copy a folder from `plugins/factanker/skills/` (e.g. `factanker-verify-figures`) into your agent's skills directory and register the MCP server `https://factanker.com/mcp` (streamable HTTP, no auth).
 
 **Without MCP:** every skill also works over REST, e.g.
 
