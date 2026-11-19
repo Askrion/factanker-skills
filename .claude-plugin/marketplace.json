@@ -1,0 +1,14 @@
+{
+  "name": "factanker",
+  "owner": { "name": "FACTANKER (Enerlio GmbH)", "url": "https://factanker.com" },
+  "metadata": { "description": "Skills that ground answers in official records via the free FACTANKER MCP server.", "version": "1.0.0" },
+  "plugins": [
+    {
+      "name": "factanker",
+      "source": "./plugins/factanker",
+      "description": "Verify figures, benchmark peers, pull official rates and FX, and count open positions - every number with its official source and a citable URL. Free, no API key.",
+      "category": "finance",
+      "keywords": ["finance", "fact-checking", "sec", "edgar", "ffiec", "interest-rates", "fx", "jobs", "mcp", "citations"]
+    }
+  ]
+}

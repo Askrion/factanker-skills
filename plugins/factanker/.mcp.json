@@ -1,0 +1,5 @@
+{
+  "mcpServers": {
+    "factanker": { "type": "http", "url": "https://factanker.com/mcp" }
+  }
+}
