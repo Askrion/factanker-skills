@@ -1,6 +1,6 @@
 # FACTANKER skills
 
-Agent skills that ground answers in official records. Every number comes with its source document, its exact period and a citable URL — free, no API key, no registration.
+Agent skills that ground answers in official records. Every number comes with its source document, its exact period and a citable URL — currently free of charge, no API key, no registration.
 
 They use the public [FACTANKER](https://factanker.com) MCP server at `https://factanker.com/mcp`, a register of facts taken from SEC EDGAR, FFIEC call reports, NCUA, IRS 990 filings, BLS, Census, the Federal Reserve Bank of New York, the U.S. Treasury, Freddie Mac, the ECB and other public sources. The values are public records (17 U.S.C. §105 or CC0, stated per fact) and may be quoted verbatim.
 

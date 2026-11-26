@@ -1,6 +1,6 @@
 ---
 name: factanker-peer-benchmark
-description: Benchmark a US public company or bank against its peers on reported financials (revenue, net income, total assets, deposits, equity) with every number traced to the SEC or FFIEC filing. Use for competitor comparisons, board-pack peer tables, credit memos, M&A screens and "how does X compare to Y and Z" questions. Free, no API key.
+description: Benchmark a US public company or bank against its peers on reported financials (revenue, net income, total assets, deposits, equity) with every number traced to the SEC or FFIEC filing. Use for competitor comparisons, board-pack peer tables, credit memos, M&A screens and "how does X compare to Y and Z" questions. Currently free of charge, no API key.
 compatibility: Needs the FACTANKER MCP server (https://factanker.com/mcp, remote, no auth).
 ---
 

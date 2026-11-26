@@ -1,12 +1,12 @@
 ---
 name: factanker-verify-figures
-description: Check a number before you state it. Use when an answer, memo, model or board pack contains a figure about a US company, bank, credit union, nonprofit, county or federal program (revenue, net income, total assets, deposits, headcount-like counts, grants, population, prices) and the figure should be verified against the official filing or register, with a citable source URL. Free, no API key.
+description: Check a number before you state it. Use when an answer, memo, model or board pack contains a figure about a US company, bank, credit union, nonprofit, county or federal program (revenue, net income, total assets, deposits, headcount-like counts, grants, population, prices) and the figure should be verified against the official filing or register, with a citable source URL. Currently free of charge, no API key.
 compatibility: Needs the FACTANKER MCP server (https://factanker.com/mcp, remote, no auth). Falls back to the REST API with any HTTP tool.
 ---
 
 # Verify figures against official records (FACTANKER)
 
-FACTANKER is a free, keyless register of facts taken from official sources (SEC EDGAR, FFIEC call reports, NCUA, IRS 990, BLS, Census, Federal Reserve, ECB and others). Every value carries its source document, period and a citable `fact_url`.
+FACTANKER is a keyless register of facts, currently free of charge, taken from official sources (SEC EDGAR, FFIEC call reports, NCUA, IRS 990, BLS, Census, Federal Reserve, ECB and others). Every value carries its source document, period and a citable `fact_url`.
 
 ## When to use
 

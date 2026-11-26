@@ -1,6 +1,6 @@
 ---
 name: factanker-rates-and-fx
-description: Current official interest rates and the euro reference rate with source and date: US effective federal funds rate, Treasury yields, 30- and 15-year mortgage rates, ECB deposit facility rate, euro short-term rate (€STR), ECB bank lending rates for companies, and EUR/USD. Use for cost-of-capital inputs, treasury and liquidity planning, FX exposure notes and any "what is the rate today" question. Free, no API key.
+description: Current official interest rates and the euro reference rate with source and date: US effective federal funds rate, Treasury yields, 30- and 15-year mortgage rates, ECB deposit facility rate, euro short-term rate (€STR), ECB bank lending rates for companies, and EUR/USD. Use for cost-of-capital inputs, treasury and liquidity planning, FX exposure notes and any "what is the rate today" question. Currently free of charge, no API key.
 compatibility: Needs the FACTANKER MCP server (https://factanker.com/mcp, remote, no auth).
 ---
 

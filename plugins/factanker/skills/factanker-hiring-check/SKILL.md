@@ -1,6 +1,6 @@
 ---
 name: factanker-hiring-check
-description: How many jobs is a company hiring for right now, counted from the employer's own careers system rather than job-board estimates, with postings added and closed in the past seven days and the largest role groups. Use for "is X hiring", "how many open positions does X have", workforce or expansion signals in research, sales prospecting and credit notes. Free, no API key.
+description: How many jobs is a company hiring for right now, counted from the employer's own careers system rather than job-board estimates, with postings added and closed in the past seven days and the largest role groups. Use for "is X hiring", "how many open positions does X have", workforce or expansion signals in research, sales prospecting and credit notes. Currently free of charge, no API key.
 compatibility: Needs the FACTANKER MCP server (https://factanker.com/mcp, remote, no auth).
 ---
 

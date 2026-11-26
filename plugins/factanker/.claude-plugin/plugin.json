@@ -1,7 +1,7 @@
 {
   "name": "factanker",
   "version": "1.0.0",
-  "description": "Ground answers in official records: verify figures, benchmark peers, official rates and FX, open positions. Uses the free FACTANKER MCP server.",
+  "description": "Ground answers in official records: verify figures, benchmark peers, official rates and FX, open positions. Uses the FACTANKER MCP server (currently free of charge).",
   "author": { "name": "FACTANKER (Enerlio GmbH)", "url": "https://factanker.com" },
   "homepage": "https://factanker.com/quickstart",
   "license": "MIT",
